@@ -33,7 +33,7 @@ My research focuses on multivariate time series prediction, spatio-temporal data
 <div class='paper-box-text' markdown="1">
 Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction
 
-Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong*,
+Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong,
 
 [**Paper**](https://ieeexplore.ieee.org/document/10887343) 
 </div>
@@ -44,7 +44,7 @@ Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Che
 <div class='paper-box-text' markdown="1">
 PartialST: Partial Spatial-Temporal learning for Urban Flow Prediction
 
-Yong Wang, **Xiaoyu Li***, Xinxin Zhang, Rui Liu, Yongshun Gong*
+Yong Wang, **Xiaoyu Li**, Xinxin Zhang, Rui Liu, Yongshun Gong
 
 [**Paper**](https://link.springer.com/article/10.1007/s00521-024-10888-7) [**Code**](https://github.com/Xxyuli/PartialST)
 </div>
@@ -55,7 +55,7 @@ Yong Wang, **Xiaoyu Li***, Xinxin Zhang, Rui Liu, Yongshun Gong*
 <div class='paper-box-text' markdown="1">
 Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Normalization
 
-**Xiaoyu Li** , Yongshun Gong* , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
+**Xiaoyu Li** , Yongshun Gong , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0004370224000018) [**Code**](https://github.com/Xxyuli/DualST)
 </div>
