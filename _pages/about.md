@@ -35,7 +35,7 @@ Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction
 
 Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong*,
 
-[**Paper**]((https://ieeexplore.ieee.org/document/10887343)) 
+[**Paper**](https://ieeexplore.ieee.org/document/10887343) 
 </div>
 </div>
 
@@ -46,7 +46,7 @@ PartialST: Partial Spatial-Temporal learning for Urban Flow Prediction
 
 Yong Wang, **Xiaoyu Li***, Xinxin Zhang, Rui Liu, Yongshun Gong*
 
-[**Paper**]((https://link.springer.com/article/10.1007/s00521-024-10888-7)) [**Code**](https://github.com/Xxyuli/PartialST)
+[**Paper**](https://link.springer.com/article/10.1007/s00521-024-10888-7) [**Code**](https://github.com/Xxyuli/PartialST)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Norma
 
 **Xiaoyu Li** , Yongshun Gong* , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
 
-[**Paper**]((https://www.sciencedirect.com/science/article/pii/S0004370224000018)) [**Code**](https://github.com/Xxyuli/DualST)
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0004370224000018) [**Code**](https://github.com/Xxyuli/DualST)
 </div>
 </div>
 
