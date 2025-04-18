@@ -36,7 +36,8 @@ Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction
 Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong*,
 
 [**Paper**]([Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10887343)) 
-
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA</div><img src='images/partialst500x300.jpeg' alt="sym" width="100%"></div></div>
@@ -46,7 +47,8 @@ PartialST: Partial Spatial-Temporal learning for Urban Flow Prediction
 Yong Wang, **Xiaoyu Li***, Xinxin Zhang, Rui Liu, Yongshun Gong*
 
 [**Paper**]([PartialST: partial spatial–temporal learning for urban flow prediction | Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-024-10888-7)) [**Code**](https://github.com/Xxyuli/PartialST)
-
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIJ</div><img src='images/dualst500x300.jpeg' alt="sym" width="100%"></div></div>
@@ -56,7 +58,8 @@ Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Norma
 **Xiaoyu Li** , Yongshun Gong* , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
 
 [**Paper**]([Dual-track spatio-temporal learning for urban flow prediction with adaptive normalization - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370224000018)) [**Code**](https://github.com/Xxyuli/DualST)
-
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2025.01* Outstanding graduates, Shandong University. 
 - *2024.12* National Scholarship
@@ -66,6 +69,6 @@ Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Norma
 - *2022.09 - 2025.06*, MSc, Shandong University, Software Engineering 
 - *2018.09 - 2022.06*, Bachelor, Shandong University, Software Engineering 
 
-# <!--💬 Invited Talks-->
-# <!--💻 Internships-->
+# 💬 Invited Talks
+# 💻 Internships
 
