@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyu Li (李晓宇)"
-description              : "Shandong University  Foucusing on time series, spatio-temporal prediction. "
+description              : "Foucusing on time series, spatio-temporal prediction. "
 repository               : "Junzhidian/Xxyuli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyu Li (李晓宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Shandong University"
   location         : "Jinan"
   employer         :
   pubmed           : 
