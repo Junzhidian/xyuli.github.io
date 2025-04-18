@@ -17,42 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursuing my Master’s degree in the Department of Software at Shandong University, advised by [Prof. Yongshun Gong]([宫永顺 山东大学主页平台管理系统--中文主页](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm)). Previously, I earned my Bachelor’s degree from the same department. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In the upcoming academic year, I will join the [Department of Data Science & Artificial Intelligence]([Home | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/)) at The Hong Kong Polytechnic University (PolyU) as a Ph.D. candidate,  under the joint supervision of  [Prof. Chengqi Zhang]([Prof. ZHANG Chengqi | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/)) and [Prof. Guodong long]([Guodong Long Profile | University of Technology Sydney](https://profiles.uts.edu.au/guodong.long)). 
+
+My research focuses on multivariate time series prediction, spatio-temporal data mining and foundation models. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*:🎉🎉 One paper was accepted by IEEE TKDE.
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by  Neural Computing & Applications.
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted by Artificial Intelligence. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/stmpnet500x300.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Yang An, Zhibin Li, **Xiaoyu Li**, Wei Liu, Xinghao Yang, Haoliang Sun, Meng Chen, Yu Zheng, Yongshun Gong*,
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Paper**]([Spatio-Temporal Multivariate Probabilistic Modeling for Traffic Prediction | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10887343)) 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA</div><img src='images/partialst500x300.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+PartialST: Partial Spatial-Temporal learning for Urban Flow Prediction
+
+Yong Wang, **Xiaoyu Li***, Xinxin Zhang, Rui Liu, Yongshun Gong*
+
+[**Paper**]([PartialST: partial spatial–temporal learning for urban flow prediction | Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-024-10888-7)) [**Code**](https://github.com/Xxyuli/PartialST)
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIJ</div><img src='images/dualst500x300.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Normalization
+
+**Xiaoyu Li** , Yongshun Gong* , Wei Liu , Yilong Yin , Yu Zheng , Liqiang Nie
+
+[**Paper**]([Dual-track spatio-temporal learning for urban flow prediction with adaptive normalization - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370224000018)) [**Code**](https://github.com/Xxyuli/DualST)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* Outstanding graduates, Shandong University. 
+- *2024.12* National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2029.06 (expected)*, Ph.D, The Hong Kong Polytechnic University, Artificial Intelligence
+- *2022.09 - 2025.06*, MSc, Shandong University, Software Engineering 
+- *2018.09 - 2022.06*, Bachelor, Shandong University, Software Engineering 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# <!--💬 Invited Talks-->
+# <!--💻 Internships-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
