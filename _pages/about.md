@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Master’s degree in the Department of Software at Shandong University, advised by [Prof. Yongshun Gong]([宫永顺 山东大学主页平台管理系统--中文主页](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm)). Previously, I earned my Bachelor’s degree from the same department. 
-
-In the upcoming academic year, I will join the [Department of Data Science & Artificial Intelligence]([Home | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/)) at The Hong Kong Polytechnic University (PolyU) as a Ph.D. candidate,  under the joint supervision of  [Prof. Chengqi Zhang]([Prof. ZHANG Chengqi | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/)) and [Prof. Guodong long]([Guodong Long Profile | University of Technology Sydney](https://profiles.uts.edu.au/guodong.long)). 
+I am currently pursuing my Master’s degree in the Department of Software at Shandong University, advised by [Prof. Yongshun Gong]([宫永顺 山东大学主页平台管理系统--中文主页](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm)). Previously, I earned my Bachelor’s degree from the same department. In the upcoming academic year, I will join the [Department of Data Science & Artificial Intelligence]([Home | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/)) at The Hong Kong Polytechnic University (PolyU) as a Ph.D. candidate,  under the joint supervision of  [Prof. Chengqi Zhang]([Prof. ZHANG Chengqi | Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/)) and [Prof. Guodong long]([Guodong Long Profile | University of Technology Sydney](https://profiles.uts.edu.au/guodong.long)). 
 
 My research focuses on multivariate time series prediction, spatio-temporal data mining and foundation models. 
 
 
 # 🔥 News
-- *2024.11*:🎉🎉 One paper was accepted by IEEE TKDE.
+- *2024.11*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by  Neural Computing & Applications.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Artificial Intelligence. 
 
