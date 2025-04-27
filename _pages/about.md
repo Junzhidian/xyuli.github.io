@@ -23,6 +23,7 @@ My research focuses on multivariate time series prediction, spatio-temporal data
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
 - *2024.11*: &nbsp;🎉🎉 One paper was accepted by IEEE TKDE.
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by  Neural Computing & Applications.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Artificial Intelligence. 
