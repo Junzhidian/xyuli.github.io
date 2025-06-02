@@ -73,6 +73,7 @@ Dualtrack Spatio-temporal Learning for Urban Flow Prediction with Adaptive Norma
 - *2022.09 - 2025.06*, MSc, Shandong University, Software Engineering 
 - *2018.09 - 2022.06*, Bachelor, Shandong University, Software Engineering 
 
-# 💬 Invited Talks
+# 💬 Professional Service
+- Reviewer: IEEE TNNLS, KDD2024
 # 💻 Internships
 
